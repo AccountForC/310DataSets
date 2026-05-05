@@ -6,4 +6,4 @@
 
 ### Datasets list:
 * Phishing Website Features (Manually converted from arff to csv by me): https://archive.ics.uci.edu/dataset/327/phishing+websites
-* Poker Hand Testing (Manually converted from data to csv and new column label row by me): https://archive-beta.ics.uci.edu/dataset/158/poker+hand
+* Poker Hand Testing and Poker Hand Training True (Manually converted from data to csv and new column label row by me): https://archive-beta.ics.uci.edu/dataset/158/poker+hand
